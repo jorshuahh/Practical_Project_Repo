@@ -1,0 +1,7 @@
+dashboard_colour = "black"
+
+window_size = 600x800
+
+widgets_available = true
+
+widgets_count = 3

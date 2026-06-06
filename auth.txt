@@ -9,3 +9,5 @@ Credentials:
 Password = ""
 
 Token = ""
+
+SSH_pub = ""

@@ -3,3 +3,9 @@ User data:
 User Name = ""
 
 Email = ""
+
+Credentials:
+
+Password = ""
+
+Token = ""

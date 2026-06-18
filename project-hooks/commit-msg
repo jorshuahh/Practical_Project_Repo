@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Always read COMMIT_EDITMSG for pre-commit hooks
+commit_msg_file="$(git rev-parse --git-path COMMIT_EDITMSG)"
+commit_msg="$(head -n1 "$commit_msg_file")"
+
+#echo "$commit_msg" | grep -Eq '^(feat|fix|docs|style|refactor|test|chore)(\([a-zA-Z0-9_-]+\))?: [a-z].+'
+echo "$commit_msg" | grep -Eq '^[A-Z]+-[0-9]+: [A-Z].+'
+
+if [ $? -ne 0 ]; then
+    echo "❌ Invalid commit message format"
+    echo "Expected: type(scope): description"
+    echo "Example: feat(calc): add addition function"
+    exit 1
+fi
+
+echo "✔ Commit message format OK"

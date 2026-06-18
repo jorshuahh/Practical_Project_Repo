@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Running tests before push..."
+
+# Run your test suite
+python -m pytest
+test_status=$?
+
+if [ $test_status -ne 0 ]; then
+    echo "❌ Tests failed — push aborted"
+    exit 1
+fi
+
+echo "✔ All tests passed — push allowed"
+exit 0

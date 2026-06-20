@@ -1,0 +1,38 @@
+f2fa7e7 HEAD@{31}: checkout: moving from main to feature/hooks
+f2fa7e7 HEAD@{32}: checkout: moving from feature/Test_Hook to main
+a3de098 HEAD@{33}: commit: TASK-001: Upload files
+f2fa7e7 HEAD@{34}: checkout: moving from main to feature/Test_Hook
+f2fa7e7 HEAD@{35}: commit (merge): fix the merge CONFLICT in config.json
+dd7a603 HEAD@{36}: checkout: moving from feature-dashboard to main
+d489c58 HEAD@{37}: commit: add config.json file
+6b73011 HEAD@{38}: rebase (finish): returning to refs/heads/feature-dashboard
+6b73011 HEAD@{39}: rebase (squash): This is a combination of 4 commits.
+7645ce0 HEAD@{40}: rebase (squash): # This is a combination of 3 commits.
+c675986 HEAD@{41}: rebase (squash): # This is a combination of 2 commits.
+65f3004 HEAD@{42}: rebase (start): checkout HEAD~4
+d930e4f HEAD@{43}: checkout: moving from main to feature-dashboard
+dd7a603 HEAD@{44}: commit: add config.json to main
+e93544d HEAD@{45}: merge feature-auth: Fast-forward
+0b7e869 HEAD@{46}: checkout: moving from feature-auth to main
+e93544d HEAD@{47}: rebase (finish): returning to refs/heads/feature-auth
+e93544d HEAD@{48}: rebase (pick): add ssh public ket to credentials
+7e169dd HEAD@{49}: rebase (pick): add credential section
+2125fd6 HEAD@{50}: rebase (pick): add user data section
+0b7e869 HEAD@{51}: rebase (start): checkout main
+4291fc9 HEAD@{52}: checkout: moving from main to feature-auth
+0b7e869 HEAD@{53}: merge hotfix-security: Merge made by the 'ort' strategy.
+a81d68c HEAD@{54}: checkout: moving from hotfix-security to main
+49c3a88 HEAD@{55}: commit: We FIX the major BUG
+a81d68c HEAD@{56}: checkout: moving from main to hotfix-security
+a81d68c HEAD@{57}: commit: We foud, that we have a CRITICAL BUG in the MAIN git statusgit status
+9ae53ce HEAD@{58}: checkout: moving from feature-dashboard to main
+d930e4f HEAD@{59}: commit: add widgets count attribute
+8598ded HEAD@{60}: commit: add widgets enabling attribute
+2332ba3 HEAD@{61}: commit: add window size attribute
+65f3004 HEAD@{62}: commit: add file dashboard.txt and dashboard colour attribute
+9ae53ce HEAD@{63}: checkout: moving from feature-auth to feature-dashboard
+4291fc9 HEAD@{64}: commit: add ssh public ket to credentials
+8db700c HEAD@{65}: commit: add credential section
+080898c HEAD@{66}: commit: add user data section
+9ae53ce HEAD@{67}: checkout: moving from main to feature-auth
+9ae53ce HEAD@{68}: commit (initial): add README.md file to the main directory of the repo

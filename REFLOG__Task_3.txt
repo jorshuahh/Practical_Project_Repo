@@ -1,0 +1,25 @@
+3bacc8e HEAD@{0}: rebase (finish): returning to refs/heads/legacy-archive
+3bacc8e HEAD@{1}: rebase (squash): TASK-003: Week_6 -> Squash commits - 3c1f515, 8768a00 to consolidate JRs work
+80a949a HEAD@{2}: rebase (continue): TASK-003: Week_4 -> Introduce Minor change D_1 to complement Stage D ACTION -> Squash commits - 3c1f515, 8768a00 to consolidate JRs work
+3c1f515 HEAD@{3}: rebase (start): checkout refs/remotes/origin/legacy-archive
+68b6166 HEAD@{4}: commit (cherry-pick): TASK-003: Week_4 -> Introduce Minor change D_3 to FINALIZE Stage D -> ACTION -> cherry-pick - 3c1f515
+d04e763 HEAD@{5}: commit (cherry-pick): TASK-003: Week_4 -> Introduce Minor change D_2 to complement Stage D -> ACTION -> cherry-pick - 8768a00
+148d415 HEAD@{6}: commit (cherry-pick): TASK-003: Week_4 -> Introduce Minor change D_1 to complement Stage D ACTION -> cherry-pick-9eae232
+345e921 HEAD@{7}: reset: moving to 345e921
+3c1f515 HEAD@{8}: commit: TASK-003: Week_4 -> Introduce Minor change D_3 to FINALIZE Stage D
+8768a00 HEAD@{9}: commit: TASK-003: Week_4 -> Introduce Minor change D_2 to complement Stage D
+9eae232 HEAD@{10}: commit: TASK-003: Week_4 -> Introduce Minor change D_1 to complement Stage D
+69467f3 HEAD@{11}: reset: moving to 69467f3
+345e921 HEAD@{12}: commit (amend): TASK-003: Week_6 -> Introduce implementation Stage F
+1864fbb HEAD@{13}: commit: TASK-003: Week_5 -> Introduce implementation Stage E
+b8f7b41 HEAD@{14}: commit: TASK-003: Week_5 -> Introduce implementation Stage E
+69467f3 HEAD@{15}: commit: TASK-003: Week_4 -> Introduce implementation Stage D -> Point Of Destruction Commit
+01fba70 HEAD@{16}: commit: TASK-003: Week_3 -> Introduce implementation Stage C
+47dc7f0 HEAD@{17}: commit: TASK-003: Week_2 -> Introduce implementation Stage B
+baffe77 HEAD@{18}: commit: TASK-003: Week_1 -> Introduce implementation Stage A
+1edd615 HEAD@{19}: commit: TASK-003: Fix typo in s_box.txt and complement description
+b4b8a91 HEAD@{20}: commit: TASK-003: Introduce Working file s_box.txt for purpose of Task 3
+1a2db03 HEAD@{21}: commit: TASK-003: Remove file auth.txt since it is related to feature-auth logic
+749cc12 HEAD@{22}: checkout: moving from main to legacy-archive
+749cc12 HEAD@{23}: pull: Fast-forward
+f2fa7e7 HEAD@{24}: checkout: moving from feature/hooks to main

@@ -1,1 +1,6 @@
 ### Sandbox Working File for purpose of Task 3 ###
+
+
+Start of Development:
+
+--> Week_1: Introduce implementation Stage A 

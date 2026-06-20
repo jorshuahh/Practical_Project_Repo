@@ -10,3 +10,4 @@ Start of Development:
 --> Week_3: Introduce implementation Stage C 
 
 --> Week_4: Introduce implementation Stage D 	--- >> This will be considered as point of destruction. Jr. Works here. 
+			--> Jr: Introduce minor change D_1 	--- >> Jr dev is still behind forgotten to pull and sync adding his finishing lines...

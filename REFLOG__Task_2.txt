@@ -1,0 +1,8 @@
+f2fa7e7 HEAD@{27}: checkout: moving from feature/hooks to main
+6cfbca6 HEAD@{28}: commit: TASK-002: Introduce github CI workflow to run pre merge tests, and upload for review the actual hooks implementation
+e613ba1 HEAD@{29}: commit: TASK-002: Introduce hooks for commit msg, pre commit pre push, intruduce simple python implementation to test hooks for format and pytest
+f2fa7e7 HEAD@{30}: checkout: moving from main to feature/hooks
+f2fa7e7 HEAD@{31}: checkout: moving from feature/Test_Hook to main
+a3de098 HEAD@{32}: commit: TASK-001: Upload files
+f2fa7e7 HEAD@{33}: checkout: moving from main to feature/Test_Hook
+

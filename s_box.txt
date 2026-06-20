@@ -15,3 +15,7 @@ Start of Development:
 									change D_2 	--- >> Jr dev is still behind forgotten to pull and sync adding his finishing lines...
 			--> Jr: Introduce final minor 
 									change D_3 	--- >> Jr dev is still behind forgotten to pull and sync adding his finishing lines...
+
+--> Week_5: Introduce implementation Stage E 
+
+--> Week_6: Introduce implementation Stage F
